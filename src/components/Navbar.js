@@ -2,9 +2,6 @@ import { Search, ShoppingCartOutlined } from '@material-ui/icons'
 import { Badge } from '@material-ui/core'
 import React from 'react'
 import styled from 'styled-components'
-
-
-
 function Navbar() {
   return (
     <Container>
@@ -37,14 +34,14 @@ function Navbar() {
 
 const Container = styled.div`
  height: 60px;
-
+    
 `
 const Wrapper = styled.div`
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+   
 `
 
 const Left = styled.div`
@@ -55,6 +52,7 @@ const Left = styled.div`
 const Language = styled.span`
     font-size: 14px;
     cursor: pointer;
+    
 `
 const SearchContainer = styled.div`
     border: 1px solid lightgray;
@@ -65,6 +63,7 @@ const SearchContainer = styled.div`
 `
 const Input =styled.input`
     border: none;
+   
 `
 
 
@@ -74,6 +73,7 @@ const Center = styled.div`
 `
 const Logo = styled.div`
     font-weight: bold ;
+    
 `
 
 
