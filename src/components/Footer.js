@@ -70,7 +70,7 @@ const Left = styled.div`
     flex: 1;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 40px;
 `
 const Logo = styled.h1``
 const Desc = styled.p`
@@ -89,10 +89,11 @@ const SocialIcon = styled.div`
     justify-content: center;
     align-items: center;
     margin-right: 20px;
+    cursor: pointer;
 `
 const Center = styled.div`
     flex: 1;
-    padding: 20px;
+    padding: 40px;
 `
 const Title = styled.h3`
     margin-bottom: 30px;
@@ -108,11 +109,11 @@ const List = styled.ul`
 const ListItem = styled.li`
     width: 50%;
     margin-bottom:10px ;
-
+    cursor: pointer;
 `
 const Right = styled.div`
     flex: 1;
-    padding: 20px;
+    padding: 40px;
 `
 const ContactItem = styled.div`
     margin-bottom: 20px;

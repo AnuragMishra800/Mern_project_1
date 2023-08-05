@@ -5,6 +5,7 @@ import Cart from "./pages/Cart";
 import Register from "./pages/Register";
 import SingleProduct from "./pages/SingleProduct";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Profile from "./pages/Profile";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -40,6 +41,12 @@ const router = createBrowserRouter([
     path: "/product-detaile",
     element: (
         <SingleProduct></SingleProduct>
+    ),
+  },
+  {
+    path: "/profile",
+    element: (
+        <Profile></Profile>
     ),
   },
 ])

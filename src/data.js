@@ -26,19 +26,19 @@ export const categories = [
     {
         id:1,
         img:"https://w0.peakpx.com/wallpaper/736/807/HD-wallpaper-lisa-blackpink-blackpink-kpop-lalisa-lisa-thumbnail.jpg",
-        title:"SHIRT STYLE!",
+        title:"WOMEN'S",
 
     },
     {
         id:2,
         img:"https://w0.peakpx.com/wallpaper/600/973/HD-wallpaper-lisa-blackpink-blackpink-kpop-thumbnail.jpg",
-        title:"LAUNGEWEAR LOVE",
+        title:"MAN'S",
 
     },
     {
         id:3,
         img:"https://w0.peakpx.com/wallpaper/109/656/HD-wallpaper-blackpink-rose-girl-kpop-thumbnail.jpg",
-        title:"LIGHT JACKETS",
+        title:"KID'S",
     },
 ]
 

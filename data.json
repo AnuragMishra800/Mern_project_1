@@ -1,0 +1,87 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Roadster",
+            "description": "Women Navy Blue Washed Cropped Denim Jacket",
+            "price": "59",
+            "discount": "51",
+            "rating": "4.3",
+            "brand": "prada",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "stock": "34",
+            "category": "women's_clothes",
+            "img": [
+                {
+                    "color": "navy blue",
+                    "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279368/2020/10/14/c8e729bf-b177-4003-8803-a7ff791dcbe01602673994774-Roadster-Women-Jackets-5821602673992817-1.jpg",
+                    "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279368/2020/10/14/064b4347-c2a2-4ecc-bc0d-b7f9af4e7bfb1602673994729-Roadster-Women-Jackets-5821602673992817-2.jpg",
+                    "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279368/2020/10/14/6e58490b-c45c-4499-9ede-b87332731f3b1602673994679-Roadster-Women-Jackets-5821602673992817-3.jpg",
+                    "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279368/2020/10/14/d2fae27c-8a22-43f5-8086-5ecaf3636a771602673994638-Roadster-Women-Jackets-5821602673992817-4.jpg",
+                    "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279368/2020/10/14/78f4efb4-4d65-4298-a821-9e1e79af2d5e1602673994591-Roadster-Women-Jackets-5821602673992817-5.jpg"
+                },
+                {
+                    "color": "dark blue",
+                    "img1": "https://assets.myntassets.com/assets/images/12279324/2020/10/19/793b976a-8238-4aaa-94a2-92f46ff80a7e1603100908801-Roadster-Women-Blue-Solid-Cropped-Denim-Jacket-2771603100906-5.jpg?im=Crop,rect=(33,303,799,835)",
+                    "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279324/2020/10/19/319cf2dc-c3c1-4e58-bdd8-1b8e24566b4f1603100908923-Roadster-Women-Blue-Solid-Cropped-Denim-Jacket-2771603100906-2.jpg ",
+                    "img3": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279324/2020/10/19/aabb46a2-c234-414e-8c5d-da604bdf24001603100908841-Roadster-Women-Blue-Solid-Cropped-Denim-Jacket-2771603100906-4.jpg",
+                    "img4": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279324/2020/10/19/32016f7a-e068-4788-916c-99b2aac2df6b1603100908882-Roadster-Women-Blue-Solid-Cropped-Denim-Jacket-2771603100906-3.jpg",
+                    "img5": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279324/2020/10/19/d1139c88-9302-4635-ba73-848c4c5aa0c71603100908759-Roadster-Women-Blue-Solid-Cropped-Denim-Jacket-2771603100906-6.jpg"
+                },
+                {
+                    "color": "blue",
+                    "img1": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279326/2020/10/14/49151e71-5487-4862-af08-08564bd50c031602674659596-Roadster-Women-Jackets-8261602674657660-1.jpg",
+                    "img2": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279326/2020/10/14/ce983675-8a1d-4ba7-b6a6-7c7c41afacf61602674659553-Roadster-Women-Jackets-8261602674657660-2.jpg",
+                    "img3": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279326/2020/10/14/c8f95493-9686-48cc-a699-bc9493f79a0b1602674659506-Roadster-Women-Jackets-8261602674657660-3.jpg",
+                    "img4": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279326/2020/10/14/88cf6e76-ce1c-45a4-97c2-2395c79938191602674659460-Roadster-Women-Jackets-8261602674657660-4.jpg",
+                    "img5": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12279326/2020/10/14/6da84117-821c-46eb-8799-aea0aa530f5e1602674659407-Roadster-Women-Jackets-8261602674657660-5.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Roadster",
+            "description": "Women Navy Blue Washed Cropped Denim Jacket",
+            "price": "59",
+            "discount": "51",
+            "rating": "4.3",
+            "brand": "prada",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "stock": "34",
+            "category": "men's",
+            "img": [
+                {
+                    "color": "navy blue",
+                    "img1": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16491076/2021/12/13/92092f8f-921e-4d52-8b0c-d9b04bb72ebd1639372865809PinkChickNavyBlueColourblockedLayeredSatinDress1.jpg",
+                    "img2": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16491076/2021/12/13/d16e28e2-f4b3-444b-96d8-a7f8efbc93701639372865817PinkChickNavyBlueColourblockedLayeredSatinDress2.jpg",
+                    "img3": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16491076/2021/12/13/f0a605b0-481a-4877-87e1-438f398739dc1639372865533PinkChickNavyBlueColourblockedLayeredSatinDress3.jpg",
+                    "img4": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16491076/2021/12/13/3359139c-b4d5-4243-8a31-0a5342b308701639372865825PinkChickNavyBlueColourblockedLayeredSatinDress4.jpg",
+                    "img5": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16491076/2021/12/13/8ac5c687-9dd4-4f0c-9ab9-de19087289bf1639372865479PinkChickNavyBlueColourblockedLayeredSatinDress5.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Roadster",
+            "description": "Women Navy Blue Washed Cropped Denim Jacket",
+            "price": "59",
+            "discount": "51",
+            "rating": "4.3",
+            "brand": "prada",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "stock": "34",
+            "category": "kid's",
+            "img": [
+                {
+                    "color": "navy blue",
+                    "img1": "https: //assets.myntassets.com/assets/images/23517974/2023/6/3/711a11d3-0c70-4019-8f72-707aea38bc851685774002354JompersMenBlackGeometricThreadWorkKurta5.jpg",
+                    "img2": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23517974/2023/6/3/223c855e-b7fb-4f4d-a9c9-fd1d169417de1685774002389JompersMenBlackGeometricThreadWorkKurta2.jpg",
+                    "img3": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23517974/2023/6/3/1b2399fc-ff7b-4be1-a556-b4849ecd34841685774002371JompersMenBlackGeometricThreadWorkKurta3.jpg",
+                    "img4": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23517974/2023/6/3/ac459b2d-9028-4628-893a-48ab783130281685774002405JompersMenBlackGeometricThreadWorkKurta4.jpg",
+                    "img5": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23517974/2023/6/3/711a11d3-0c70-4019-8f72-707aea38bc851685774002354JompersMenBlackGeometricThreadWorkKurta5.jpg",
+                    "img6": "https: //assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23517974/2023/6/3/b0ab5f80-3401-4e29-a02f-ed78c8ec604e1685774002420JompersMenBlackGeometricThreadWorkKurta6.jpg"
+                }
+            ]
+        }
+    ]
+}
